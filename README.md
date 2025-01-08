@@ -41,8 +41,8 @@ Feel free to ping me about:
 ---
 
 ### 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=6&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuniepie&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuniepie&langs_count=6&theme=radical)
 
 ---
 
