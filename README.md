@@ -41,8 +41,10 @@ Feel free to ping me about:
 ---
 
 ### 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuniepie&show_icons=true&count_private=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuniepie&langs_count=6&theme=radical)
+#### 🚀 My GitHub Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuniepie&show_icons=true&count_private=true&hide=prs&theme=transparent&border_radius=8&title_color=fff&icon_color=ffcc00&bg_color=00000000)
+#### 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuniepie&langs_count=6&layout=compact&theme=transparent&border_radius=8&title_color=fff&icon_color=ffcc00&bg_color=00000000)
 
 ---
 
