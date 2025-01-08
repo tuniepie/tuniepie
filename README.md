@@ -55,4 +55,8 @@ When I'm not building AI systems, I’m diving into research papers, attending A
 
 Thanks for visiting my profile! Let's build something amazing! 🚀
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuniepie/tuniepie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuniepie/tuniepie/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuniepie/tuniepie/output/github-contribution-grid-snake.svg">
+</picture>  
